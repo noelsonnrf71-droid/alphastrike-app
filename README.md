@@ -1,0 +1,2 @@
+# alphastrike-app
+Destruindo corretoras 
